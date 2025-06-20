@@ -50,6 +50,7 @@ Things I looked up:
 - Rounded corner cards
 - How to center images (still not learned entirely)
 - How to comment in CSS
+- Why is image working locally but not on Github Pages (must put src first for img item, then class or anything else)
 
 ### Built with
 
