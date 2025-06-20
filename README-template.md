@@ -4,16 +4,18 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+- [Frontend Mentor - QR code component solution](#frontend-mentor---qr-code-component-solution)
+  - [Table of contents](#table-of-contents)
+  - [Overview](#overview)
+    - [Screenshot](#screenshot)
+    - [Links](#links)
+  - [My process](#my-process)
+    - [Built with](#built-with)
+    - [What I learned](#what-i-learned)
+    - [Continued development](#continued-development)
+    - [Useful resources](#useful-resources)
+  - [Author](#author)
+  - [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -37,6 +39,17 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
+
+Things I looked up:
+- How to set background color of website
+- How to connect CSS to HTML
+- Card container
+- How to select a class in CSS
+- How to use different fonts (specifically web fonts)
+- How to use fonts from Google
+- Rounded corner cards
+- How to center images (still not learned entirely)
+- How to comment in CSS
 
 ### Built with
 
@@ -63,11 +76,6 @@ To see how you can add code snippets, see below:
 ```css
 .proud-of-this-css {
   color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
 }
 ```
 
